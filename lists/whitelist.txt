@@ -204,3 +204,7 @@ cdn.discordapp.com
 
 # Bunnings: Required for authorisation and login
 authorisation.api.bunnings.com.au
+
+#now.gg
+now.gg
+universityequality.com
